@@ -7,4 +7,4 @@
 2. 단순 rnn 부터 bilstm 적용 과정
 3. bilstm과 fast text 임베딩 과정
 
-을 
+을 담았습니다
